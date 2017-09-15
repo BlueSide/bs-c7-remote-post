@@ -1,6 +1,6 @@
 # Contact Form 7 Remote Post
 
-A plugin that let's you send Contact Form 7 data to a web service via HTTP POST.
+A WordPress plugin that let's you send Contact Form 7 data to a web service via HTTP POST.
 
 ## Dependencies
 #### Contact Form 7
