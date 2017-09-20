@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Contact Form 7 Remote Post
-Plugin URI: http://blueside.nl/
+Plugin URI: http://www.blueside.nl/
 Description: When submitting a Contact Form 7, POST it to a specified web service
-Author: Marlon Peeters
+Author: Marlon Peeters, Blue Side
 Author URI: http://www.blueside.nl/
 Text Domain: bs-c7-post
 Version: 1.0
